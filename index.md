@@ -1,6 +1,6 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# On cherche un doc
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+La Maison Médicale de Plouégat-Guérand recherche son nouveau médecin généraliste.
