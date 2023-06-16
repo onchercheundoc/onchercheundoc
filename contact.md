@@ -5,7 +5,7 @@ La Maison Médicale de Plouégat-Guerrand cherche son prochain médecin généra
 
 Pour contacter le secrétariat de la Maison Médicale, vous pouvez :
 
-- envoyer un mail à [contact@onchercheundoc.fr] (mailto:contact@onchercheundoc.fr) ou [leflochdaniel at orange.fr](mailto:leflochdaniel@orange.fr)
+- envoyer un mail à [contact@onchercheundoc.fr](mailto:contact@onchercheundoc.fr) ou [leflochdaniel at orange.fr](mailto:leflochdaniel@orange.fr)
 - téléphoner au [02 98 79 90 96](tel:+33298799096)
 - envoyer un mail depuis le formulaire de contact ci dessous :
 
