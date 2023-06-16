@@ -7,6 +7,8 @@ Plouégat-Guerrand se situe dans le nord-est du Finistère, en Trégor, et est l
 
 Plouégat-Guerrand fait partie historiquement du Trégor finistérien. 
 
+— [D'après Wikipédia](https://fr.wikipedia.org/wiki/Plou%C3%A9gat-Gu%C3%A9rand)
+
 ## Commerces et Services
 
 ## Vie associative
