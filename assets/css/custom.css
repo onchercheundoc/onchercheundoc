@@ -2,3 +2,8 @@
 :root {
     --couleur-primaire : #2a6442;
 }
+
+
+footer, .skip-links {
+    display: none;
+}
