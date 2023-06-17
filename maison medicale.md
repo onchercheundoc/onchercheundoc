@@ -25,4 +25,4 @@ activité dans les maisons retraites, les foyers logement et hôpital local sur 
 ![Le cabinet médical 2](images/cabinet médical (1)(1).jpg)
 ![Le cabinet médical 3](images/cabinet médical (3).jpg)
 ![Le cabinet médical 4](images/cabinet médical (4).jpg)
-![L'extérieur du cabinet médical](images/extérieur cabinet.jpg)
+![L'extérieur du cabinet médical](images/exterieur cabinet.jpg)
