@@ -12,3 +12,4 @@ Pour plus d'informations :
 - [https://www.bretagne-cotedegranitrose.com](https://www.bretagne-cotedegranitrose.com)
 
 ![Église de Plouégat-Guérand](images/Plouégat-Guérand_(29)_Église_01.jpg)
+![Port de Locquirec](images/locquirec-port-bateaux.qjpg_-1920x1080.jpg)
