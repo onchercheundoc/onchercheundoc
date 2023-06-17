@@ -1,8 +1,6 @@
 ---
 title: Contact
 ---
-La Maison Médicale de Plouégat-Guerrand cherche son prochain médecin généraliste.
-
 Pour contacter le secrétariat de la Maison Médicale, vous pouvez :
 
 - envoyer un mail à [contact@onchercheundoc.fr](mailto:contact@onchercheundoc.fr) ou [leflochdaniel at orange.fr](mailto:leflochdaniel@orange.fr)
