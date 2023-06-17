@@ -3,4 +3,10 @@ title: Accueil
 ---
 # On Cherche Un Doc !
 
-La Maison Médicale de Plouégat-Guerrand cherche son prochain médecin généraliste.
+La Maison Médicale de Plouégat-Guerrand cherche ses prochains médecins généralistes.
+
+Pour plus d'informations : 
+
+- https://www.plouegat-guerrand.bzh/
+- https://www.baiedemorlaix.bzh/fr/
+- https://www.bretagne-cotedegranitrose.com/
