@@ -20,3 +20,9 @@ sophrologue et un naturopathe
 
 Patientèle de 2500 personnes de tous profils, permettant une activité variée et personnalisable en fonction de vos envies, visites à domicile possibles
 activité dans les maisons retraites, les foyers logement et hôpital local sur les communes de Lamneur, Plouigneau et Plestin-les-Grèves.
+
+![Le cabinet médical 1](images/cabinet médical (1).jpg)
+![Le cabinet médical 2](images/cabinet médical (1)(1).jpg)
+![Le cabinet médical 3](images/cabinet médical (3).jpg)
+![Le cabinet médical 4](images/cabinet médical (4).jpg)
+![L'extérieur du cabinet médical](images/extérieur cabinet.jpg)
