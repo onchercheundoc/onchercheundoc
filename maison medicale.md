@@ -3,7 +3,7 @@ title: Maison Médicale
 ---
 Située à 300m du bourg, la Maison Médicale a été achevée en 2021. Un seul médecin y exerce pour le moment, mais les locaux ont été prévus de sorte à pouvoir y aménager 2 cabinets médicaux si besoin.
 
-## Professionnels actuels :
+## Professionnels actuels
 
 – 1 médecin généraliste avec secrétaire médicale
 – 1 cabinet de 4 infirmiers
@@ -16,7 +16,7 @@ Située à 300m du bourg, la Maison Médicale a été achevée en 2021. Un seul 
 – et sur la commune en collaboration avec le pôle de santé : une psychologue, une
 sophrologue et un naturopathe
 
-##Description de l'activité
+## Description de l'activité
 
 Patientèle de 2500 personnes de tous profils, permettant une activité variée et personnalisable en fonction de vos envies, visites à domicile possibles
 activité dans les maisons retraites, les foyers logement et hôpital local sur les communes de Lamneur, Plouigneau et Plestin-les-Grèves.
