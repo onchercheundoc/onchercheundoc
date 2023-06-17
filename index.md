@@ -10,3 +10,5 @@ Pour plus d'informations :
 - https://www.plouegat-guerrand.bzh/
 - https://www.baiedemorlaix.bzh/fr/
 - https://www.bretagne-cotedegranitrose.com/
+
+![Église de Plouégat-Guérand](images/Plouégat-Guérand_(29)_Église_01.jpg)
