@@ -9,6 +9,40 @@ Plouégat-Guerrand fait partie historiquement du Trégor finistérien. — [D'ap
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.791313171386719%2C48.5686563079607%2C-3.6059188842773438%2C48.671919512374565&amp;layer=mapnik&amp;marker=48.620314316501755%2C-3.6986160278320312" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.6203&amp;mlon=-3.6986#map=13/48.6203/-3.6986">Afficher une carte plus grande</a></small>
 
+
+## Présentation
+
+
+Commune dynamique du nord Finistère comptant 1058 habitants (au recensement de 2022), à 20 minutes de Morlaix, et 25 minutes de Lannion ; à 1h de Brest et 1h de St Brieuc, avec accès par Voie Express facile à 6 km.
+
+À 10 minutes de Locquirec : petite station balnéaire avec de nombreuses plages, activités nautiques, port de plaisance, bars et restaurants.
+
+La population de Plouégat-Guerrand population qui rajeunit avec un indice de vieillissement de 63 personnes de 65 ans ou plus pour 100 habitants de moins de 20 ans.
+
 ## Commerces et Services
 
+- 1 boulangerie
+- 1 restaurant
+- 1 coiffeur
+- 1 bar-café
+- 1 épicerie prévue en 2024
+
+### Vente directe du producteur au consommateur :
+
+- Les saveurs glacées du terroir : crème glacée, yaourts, beurre, lait cru, viande
+- Le panier du Guerrand : maraîcher et confitures
+- La ferme St Laurent : viandes, charcuterie et plats préparés
+- Marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
+- Bibliothèque avec jardin partagé
+- Une école publique de la maternelle au cm2.
+- Ramassage scolaire pour collèges et lycées
+
 ## Vie associative
+
+- 3 comités des fêtes organisant chacun un pardon durant l'été
+- Générations loisirs (cours de couture, art floral, bricolage, chorale, cours de gym, zumba, danse bretonne)
+- Poney-club
+- Club des anciens
+- Club de football
+- Club de pétanque
+- Maison des artistes (céramiste, tissage et gravure, théâtre de papier)
