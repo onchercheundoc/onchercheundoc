@@ -7,8 +7,8 @@ La Maison Médicale de Plouégat-Guerrand cherche ses prochains médecins géné
 
 Pour plus d'informations : 
 
-- https://www.plouegat-guerrand.bzh/
-- https://www.baiedemorlaix.bzh/fr/
-- https://www.bretagne-cotedegranitrose.com/
+- [www.plouegat-guerrand.bzh/](https://www.plouegat-guerrand.bzh)
+- [www.baiedemorlaix.bzh/fr](https://www.baiedemorlaix.bzh/fr)
+- [https://www.bretagne-cotedegranitrose.com](https://www.bretagne-cotedegranitrose.com)
 
 ![Église de Plouégat-Guérand](images/Plouégat-Guérand_(29)_Église_01.jpg)
