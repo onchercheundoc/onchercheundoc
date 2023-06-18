@@ -26,16 +26,17 @@ La population de Plouégat-Guerrand population qui rajeunit avec un indice de vi
 - 1 coiffeur
 - 1 bar-café
 - 1 épicerie prévue en 2024
+- Marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
+- Bibliothèque avec jardin partagé
+- Une école publique de la maternelle au cm2.
+- Ramassage scolaire pour collèges et lycées
 
 ### Vente directe du producteur au consommateur :
 
 - Les saveurs glacées du terroir : crème glacée, yaourts, beurre, lait cru, viande
 - Le panier du Guerrand : maraîcher et confitures
 - La ferme St Laurent : viandes, charcuterie et plats préparés
-- Marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
-- Bibliothèque avec jardin partagé
-- Une école publique de la maternelle au cm2.
-- Ramassage scolaire pour collèges et lycées
+
 
 ## Vie associative
 
