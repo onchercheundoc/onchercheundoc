@@ -41,6 +41,9 @@ Plouégat-Guerrand est une commune dynamique de 1058 habitants.
 - Vente de fruits et légumes et confitures
 - Vente à la ferme de viandes, charcuterie et plats préparés
 
+![le bourg](images/Screenshot 2023-06-19 at 16-04-25 𝗟𝗲 𝗯𝗼𝘂𝗿𝗴.png)
+*Le bourg de Plouégat-Guerrand*
+
 
 ### Vie associative
 
