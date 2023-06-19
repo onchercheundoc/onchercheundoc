@@ -25,19 +25,19 @@ Située à 20 minutes de Morlaix, et 25 minutes de Lannion, elle est également 
 
 Plouégat-Guerrand est une commune dynamique de 1058 habitants.
 
-### Commerces et Services
+#### Commerces et Services
 
 - Une boulangerie
 - Un restaurant
 - Un salon de coiffure
 - Un bar-café
 - Une épicerie prévue en 2024
-- Un marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
+- Un marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les deux derniers jeudis de décembre
 - Une bibliothèque avec jardin partagé
 - Une école publique de la maternelle au CM2
 - Ramassage scolaire pour le collège de Lanmeur et les lycées de Morlaix
 
-#### Vente directe du producteur au consommateur :
+##### Vente directe du producteur au consommateur :
 
 - Vente à la ferme de crème glacée, yaourts, beurre, lait cru, viande
 - Vente de fruits et légumes et confitures
@@ -47,11 +47,11 @@ Plouégat-Guerrand est une commune dynamique de 1058 habitants.
 *Le bourg de Plouégat-Guerrand*
 
 
-![Eglise](images/Plouégat-Guérand_(29)_Église_01.jpg]
+![Eglise](images/Plouégat-Guérand_(29)_Église_01.jpg)
 *L'église*
 
 
-### Vie associative
+#### Vie associative
 
 - Trois comités des fêtes organisant chacun un pardon durant l'été
 - Générations loisirs (cours de couture, art floral, bricolage, chorale, cours de gym, zumba, danse bretonne)
