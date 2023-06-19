@@ -20,36 +20,39 @@ Située à 20 minutes de Morlaix, et 25 minutes de Lannion, elle est également 
 ## Présentation
 
 
-Plouégat-Guerrand est une commune dynamique de 1058 habitants
+Plouégat-Guerrand est une commune dynamique de 1058 habitants.
 
 ### Commerces et Services
 
-- 1 boulangerie
-- 1 restaurant
-- 1 coiffeur
-- 1 bar-café
-- 1 épicerie prévue en 2024
-- Marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
-- Bibliothèque avec jardin partagé
-- Une école publique de la maternelle au CM2.
-- Ramassage scolaire pour collèges et lycées
+- Une boulangerie
+- Un restaurant
+- Un salon de coiffure
+- Un bar-café
+- Une épicerie prévue en 2024
+- Un marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
+- Une bibliothèque avec jardin partagé
+- Une école publique de la maternelle au CM2
+- Ramassage scolaire pour le collège de Lanmeur et les lycées de Morlaix
 
 #### Vente directe du producteur au consommateur :
 
-- Les saveurs glacées du terroir : crème glacée, yaourts, beurre, lait cru, viande
-- Le panier du Guerrand : maraîcher et confitures
-- La ferme St Laurent : viandes, charcuterie et plats préparés
+- Vente à la ferme de crème glacée, yaourts, beurre, lait cru, viande
+- Vente de fruits et légumes et confitures
+- Vente à la ferme de viandes, charcuterie et plats préparés
 
 
 ### Vie associative
 
-- 3 comités des fêtes organisant chacun un pardon durant l'été
+- Trois comités des fêtes organisant chacun un pardon durant l'été
 - Générations loisirs (cours de couture, art floral, bricolage, chorale, cours de gym, zumba, danse bretonne)
 - Poney-club
 - Club des anciens
 - Club de football
 - Club de pétanque
 - Maison des artistes (céramiste, tissage et gravure, théâtre de papier)
+
+![Maison des artistes](https://images/csm_Maison_Quesseveur_atelier2myriam_92d9758931.jpg)
+*Maison des artistes*
 
 
 ## Pour plus d'informations
