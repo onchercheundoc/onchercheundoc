@@ -65,6 +65,10 @@ Plouégat-Guerrand est une commune dynamique de 1058 habitants.
 *Maison des artistes*
 
 
+![trail des cerisiers](641b5ca59be02b0c522abb92.jpg)
+*Trail des cerisiers, photo via Le Télégramme*
+
+
 ## Pour plus d'informations
 
 - [www.plouegat-guerrand.bzh](https://www.plouegat-guerrand.bzh)
