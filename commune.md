@@ -11,8 +11,10 @@ Située à 20 minutes de Morlaix, et 25 minutes de Lannion, elle est également 
 
 
 
-
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.791313171386719%2C48.5686563079607%2C-3.6059188842773438%2C48.671919512374565&amp;layer=mapnik&amp;marker=48.620314316501755%2C-3.6986160278320312" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.6203&amp;mlon=-3.6986#map=13/48.6203/-3.6986">Afficher une carte plus grande</a></small>
+
+
+
 
 ![Locquirec](images/locquirec-port-bateaux.qjpg_-1920x1080.jpg)
 *Locquirec*
@@ -43,6 +45,10 @@ Plouégat-Guerrand est une commune dynamique de 1058 habitants.
 
 ![le bourg](images/Screenshot 2023-06-19 at 16-04-25 𝗟𝗲 𝗯𝗼𝘂𝗿𝗴.png)
 *Le bourg de Plouégat-Guerrand*
+
+
+![Eglise](images/Plouégat-Guérand_(29)_Église_01.jpg]
+*L'église*
 
 
 ### Vie associative
