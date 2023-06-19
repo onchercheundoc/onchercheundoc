@@ -17,8 +17,6 @@ Commune dynamique du nord Finistère comptant 1058 habitants (au recensement de 
 
 À 10 minutes de Locquirec : petite station balnéaire avec de nombreuses plages, activités nautiques, port de plaisance, bars et restaurants.
 
-La population de Plouégat-Guerrand population qui rajeunit avec un indice de vieillissement de 63 personnes de 65 ans ou plus pour 100 habitants de moins de 20 ans.
-
 ## Commerces et Services
 
 - 1 boulangerie
