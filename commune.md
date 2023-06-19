@@ -3,11 +3,13 @@ title: Commune
 ---
 ## Localisation
 
-<a href="https://www.plouegat-guerrand.bzh/" target="_blank">Plouégat-Guerrand</a> est une commune du nord-est du Finistère, limitrophe des Côtes-d'Armor. Elle fait partie de la communauté de Morlaix.
+<a href="https://www.plouegat-guerrand.bzh/" target="_blank">Plouégat-Guerrand</a> est une commune du nord-est du Finistère, limitrophe des Côtes-d'Armor. Elle fait partie de la communauté d'agglomération de Morlaix Communauté.
 
 Située à 20 minutes de Morlaix, et 25 minutes de Lannion, elle est également à 1h de Brest et 1h de St Brieuc via la RN12, facilement accessible à 6 km.
 
 À 10 minutes se trouve la petite station balnéaire de Locquirec avec ses nombreuses plages, activités nautiques, port de plaisance, bars et restaurants.
+
+
 
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.791313171386719%2C48.5686563079607%2C-3.6059188842773438%2C48.671919512374565&amp;layer=mapnik&amp;marker=48.620314316501755%2C-3.6986160278320312" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.6203&amp;mlon=-3.6986#map=13/48.6203/-3.6986">Afficher une carte plus grande</a></small>
@@ -18,9 +20,9 @@ Située à 20 minutes de Morlaix, et 25 minutes de Lannion, elle est également 
 ## Présentation
 
 
-Commune dynamique du nord Finistère comptant 1058 habitants (au recensement de 2022), 
+Plouégat-Guerrand est une commune dynamique de 1058 habitants
 
-## Commerces et Services
+### Commerces et Services
 
 - 1 boulangerie
 - 1 restaurant
@@ -32,14 +34,14 @@ Commune dynamique du nord Finistère comptant 1058 habitants (au recensement de 
 - Une école publique de la maternelle au CM2.
 - Ramassage scolaire pour collèges et lycées
 
-### Vente directe du producteur au consommateur :
+#### Vente directe du producteur au consommateur :
 
 - Les saveurs glacées du terroir : crème glacée, yaourts, beurre, lait cru, viande
 - Le panier du Guerrand : maraîcher et confitures
 - La ferme St Laurent : viandes, charcuterie et plats préparés
 
 
-## Vie associative
+### Vie associative
 
 - 3 comités des fêtes organisant chacun un pardon durant l'été
 - Générations loisirs (cours de couture, art floral, bricolage, chorale, cours de gym, zumba, danse bretonne)
