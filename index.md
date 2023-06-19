@@ -5,9 +5,8 @@ title: Accueil
 
 La Maison Médicale de Plouégat-Guerrand recherche un voire deux médecins généralistes.
 
+Le médecin généraliste actuel vient d'avoir 60 ans et envisage de partir en retraite d'ici 5 ans. Il chercherait à diminuer progressivement son activité, pour passer le relais en douceur.
+
+![maison médicale](images/exterieur-cabinet.jpg)
 
 ![Église de Plouégat-Guérand](images/Plouégat-Guérand_(29)_Église_01.jpg)
-
-![Port de Locquirec](images/locquirec-port-bateaux.qjpg_-1920x1080.jpg)
-
-![École primaire de Plouégat-Guérand](images/csm_ecole_primaire__2__b3bdda9ec2.jpg)
