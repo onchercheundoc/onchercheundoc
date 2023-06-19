@@ -28,7 +28,7 @@ La population de Plouégat-Guerrand population qui rajeunit avec un indice de vi
 - 1 épicerie prévue en 2024
 - Marché hebdomadaire d'avril à octobre le jeudi de 16h à 19h ainsi qu'un marché de Noël les 2 derniers jeudis de décembre
 - Bibliothèque avec jardin partagé
-- Une école publique de la maternelle au cm2.
+- Une école publique de la maternelle au CM2.
 - Ramassage scolaire pour collèges et lycées
 
 ### Vente directe du producteur au consommateur :
@@ -47,3 +47,10 @@ La population de Plouégat-Guerrand population qui rajeunit avec un indice de vi
 - Club de football
 - Club de pétanque
 - Maison des artistes (céramiste, tissage et gravure, théâtre de papier)
+
+
+## Pour plus d'informations
+
+- [www.plouegat-guerrand.bzh](https://www.plouegat-guerrand.bzh)
+- [www.baiedemorlaix.bzh/fr](https://www.baiedemorlaix.bzh/fr)
+- [https://www.bretagne-cotedegranitrose.com](https://www.bretagne-cotedegranitrose.com)
