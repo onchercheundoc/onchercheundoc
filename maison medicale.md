@@ -19,7 +19,7 @@ Sur la commune en collaboration avec le pôle de santé : une psychologue, une s
 
 ## Description de l'activité
 
-Patientèle de 2500 personnes de tous profils, permettant une activité variée et personnalisable en fonction de vos envies.
+Patientèle bien établie de tous profils, permettant une activité variée et personnalisable en fonction de vos envies.
 Visites à domicile possibles.
 Activité dans les maisons de retraites, les foyers logement et hôpital local de Lanmeur, Plouigneau et Plestin-les-Grèves.
 
